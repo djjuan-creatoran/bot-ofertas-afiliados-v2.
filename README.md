@@ -1,0 +1,1 @@
+# bot-ofertas-afiliados-v2.

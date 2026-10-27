@@ -1,8 +1,15 @@
+
 [
   {
-    "titulo": "EXEMPLO - substitua por uma oferta real",
-    "preco": "R$ 0,00",
-    "loja": "Shopee ou Mercado Livre",
-    "link": "https://example.com/oferta"
+    "titulo": "ps5",
+    "preco": "R$ 49,90",
+    "loja": "Shopee",
+    "link": "https://meli.la/2GtyP6n"
+  },
+  {
+    "titulo": "ps5",
+    "preco": "R$ 89,90",
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2GtyP6n"
   }
 ]

@@ -4,5 +4,11 @@
     "link": "https://example.com/oferta",
     "preco": "R$ 0,00",
     "loja": "Shopee ou Mercado Livre"
+  },
+  {
+    "titulo": "ps5",
+    "link": "https://meli.la/2GtyP6n",
+    "preco": "R$ 49,90",
+    "loja": "Shopee"
   }
 ]
